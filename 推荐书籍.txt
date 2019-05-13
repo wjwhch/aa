@@ -1,0 +1,16 @@
+
+		
+//		犀牛书(javascript权威指南)
+//		
+//		红皮书(javascript高级程序设计)
+//		
+//		你不知道的javascript(上,中,下)
+//		
+//		javascript设计模式
+//		
+//		锋利的jQuery
+//		
+//		数据结构
+//
+//		ES6入门-阮一峰
+		
